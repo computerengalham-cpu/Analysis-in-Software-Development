@@ -1,0 +1,32 @@
+5.2 Prioritization Example (MoSCoW) 
+
+Must Have: 1,2,3,5,9,12,14 
+Should Have: 4,7,10,11,13 
+Could Have: 6 
+Won’t Have (now): Additional investment tools 
+
+ 
+
+5.3 Diagrams (Markdown-Compatible) 
+
+Use Case Diagram (ASCII Form) 
+
+      +------------------+ 
+
+      |    Customer      | 
+
+      +------------------+ 
+
+         /      |     \ 
+
+        /       |      \ 
+
+[Create Account] [Transfer Funds] [Download Statement] 
+
+ERD (ASCII Form) 
+
+CUSTOMER ---< ACCOUNT ---< TRANSACTION 
+
+          \               / 
+
+           \--< LOAN >---/ 
