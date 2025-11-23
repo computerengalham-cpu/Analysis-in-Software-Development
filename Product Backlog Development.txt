@@ -1,0 +1,53 @@
+Product Backlog Development
+2.1 Definition
+
+A Product Backlog is a prioritized, evolving list of features, enhancements, bug fixes, and technical tasks required to build a product.
+It is the single source of truth for what the development team will work on.
+
+2.2 Structure of a Product Backlog
+
+A well-structured backlog typically includes the following fields:
+
+ID: Unique sequence number
+
+User Story: Requirement written in user story format
+
+Priority: Business or technical importance
+
+Story Points: Complexity / effort estimate
+
+Acceptance Criteria: Conditions for approval
+
+Status: To-do / In-progress / Done
+
+2.3 Backlog Prioritization Techniques
+
+MoSCoW Method
+
+Must have, Should have, Could have, Won’t have
+
+Kano Model
+
+Basic needs, performance needs, delighting needs
+
+Value vs. Effort Matrix
+
+Plotting features based on ROI
+
+Weighted Shortest Job First (WSJF)
+
+Formula: (Business Value + Time Criticality + Risk Reduction) ÷ Effort
+
+2.4 Backlog Refinement & Maintenance
+
+Backlog refinement usually occurs once per sprint and may include:
+
+Adding new items
+
+Splitting large stories
+
+Re-estimating stories
+
+Re-prioritizing items
+
+Deleting outdated items
