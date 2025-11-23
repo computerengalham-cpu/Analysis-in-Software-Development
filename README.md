@@ -16,6 +16,7 @@
 | H-08 | As a pharmacist, I want to manage prescriptions and dispense medicine.                           | 5            | High     | Prescription processed, medicine dispensed                |
 | H-09 | As a patient, I want to pay invoices online.                                                     | 3            | High     | Payment processed, receipt issued                         |
 | H-10 | As a system admin, I want to create staff accounts with roles.                                   | 3            | High     | Accounts created with correct permissions                 |
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f8f28981-645c-4bf5-9f55-3a62a937c9e7" />
 
 ## Hotel Management System – User Stories
 
@@ -31,3 +32,4 @@
 | HT-08 | As a guest, I want to book additional services (spa, room service). | 3            | Medium   | Service added to bill, confirmation sent           |
 | HT-09 | As a channel manager, I want to sync availability with OTAs.        | 5            | High     | Availability updated, double bookings prevented    |
 | HT-10 | As a hotel manager, I want to create user accounts with roles.      | 3            | High     | Accounts created, permissions applied              |
+<img width="1920" height="1355" alt="image" src="https://github.com/user-attachments/assets/37bbe16b-9c25-4adb-ba71-bf4a941736f9" />
