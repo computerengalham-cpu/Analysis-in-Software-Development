@@ -1,0 +1,53 @@
+3. User Stories 
+
+3.1 Definition and Format 
+
+A user story is a simple, concise requirement that describes a feature from the perspective of the end user. 
+
+Standard format: 
+
+As a [type of user], I want [feature], so that [benefit]. 
+
+ 
+
+3.2 How to Write Effective User Stories 
+
+Good user stories are: 
+
+Independent 
+
+Negotiable 
+
+Valuable 
+
+Estimable 
+
+Small 
+
+Testable 
+
+(These form the INVEST principles) 
+
+3.3 Acceptance Criteria 
+
+Acceptance criteria define the conditions under which a story is considered complete. 
+
+Examples include: 
+
+Input validation rules 
+
+Behavioral expectations 
+
+Business conditions 
+
+UX/Performance constraints 
+
+They ensure: 
+
+Shared understanding 
+
+Testability 
+
+Defined boundaries 
+
+Preventing scope creep 
