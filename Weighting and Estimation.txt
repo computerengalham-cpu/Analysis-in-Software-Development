@@ -1,0 +1,34 @@
+4. Weighting and Estimation
+4.1 Story Point Estimation Techniques
+
+Story Points are a unit of measure to express the complexity, effort, and uncertainty of a user story. They help teams estimate work without tying it directly to hours or days.
+
+4.2 Common Estimation Methods
+
+Planning Poker
+Team members estimate using numbered cards, discuss differences, and re-vote until consensus.
+
+T-Shirt Sizing
+Assign sizes such as S, M, L, XL to stories based on perceived effort.
+
+Fibonacci Sequence
+Use numbers like 1, 2, 3, 5, 8, 13… to capture increasing uncertainty in estimates.
+
+Bucket System
+Group user stories into predefined buckets for faster estimation when handling a large backlog.
+
+4.3 Weighting User Stories
+
+Stories are weighted based on factors that reflect effort, priority, and value:
+
+Technical Difficulty – How complex the story is to implement
+
+Dependencies – Stories that depend on others may need higher weighting
+
+Risks – High-risk stories may require more attention
+
+Time Criticality – Urgent stories can have higher priority
+
+Business ROI – Stories with higher business value get higher weighting
+
+Regulatory or Compliance Needs – Mandatory items get higher priority
