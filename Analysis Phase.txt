@@ -1,0 +1,89 @@
+The Analysis Phase in Software Development
+1.1 Definition and Importance
+
+The Analysis Phase of the Software Development Life Cycle (SDLC) is the stage where business needs, stakeholder expectations, and system requirements are thoroughly examined, clarified, and documented.
+Its primary goal is to understand what needs to be built before deciding how to build it.
+
+Why it is important:
+
+Prevents costly changes during later stages
+
+Ensures clear communication between stakeholders and developers
+
+Defines scope, constraints, risks, and success criteria
+
+Provides the foundation for design, development, and testing
+
+1.2 Sub-Steps of the Analysis Phase
+
+1. Requirements Elicitation
+Collecting requirements using interviews, surveys, workshops, observation, document analysis, and brainstorming.
+
+2. Requirements Classification
+Categorizing requirements into functional/non-functional, business/system, mandatory/optional.
+
+3. Requirements Analysis
+Evaluating feasibility, resolving conflicts, clarifying ambiguities, identifying dependencies, and detecting constraints.
+
+4. Requirements Modeling
+Creating diagrams such as use cases, data flow diagrams (DFD), entity-relationship diagrams (ERD), workflow diagrams.
+
+5. Requirements Specification
+Documenting requirements in a formal Software Requirements Specification (SRS) or Agile artifacts (user stories).
+
+6. Requirements Validation
+Confirming requirements with stakeholders through walkthroughs, prototypes, and acceptance criteria.
+
+1.3 Deliverables and Outcomes
+
+Primary deliverables:
+
+Software Requirements Specification (SRS)
+
+Use Case Diagrams
+
+Data Models (ERD)
+
+Workflow Charts or Process Maps
+
+Glossary of Terms
+
+Prioritized Requirement List
+
+Initial Product Backlog (in Agile)
+
+Outcomes:
+
+Shared understanding of the system requirements
+
+Documented scope and constraints
+
+Approved baseline for design
+
+1.4 Best Practices & Common Challenges
+
+Best Practices:
+
+Involve all stakeholders early
+
+Use multiple elicitation techniques
+
+Validate requirements often
+
+Use visual models to reduce ambiguity
+
+Maintain traceability of requirements
+
+Keep documentation updated
+
+Common Challenges:
+
+Vague or changing requirements
+
+Conflicting stakeholder expectations
+
+Scope creep
+
+Poor communication
+
+Insufficient domain knowledge
