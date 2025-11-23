@@ -1,0 +1,14 @@
+## Hotel Management System – User Stories
+
+| ID    | User Story                                                          | Story Points | Priority | Acceptance Criteria                                |
+| ----- | ------------------------------------------------------------------- | ------------ | -------- | -------------------------------------------------- |
+| HT-01 | As a guest, I want to book a room online.                           | 5            | High     | Booking confirmed, room assigned                   |
+| HT-02 | As a receptionist, I want to check in guests.                       | 3            | High     | Booking verified, room marked occupied             |
+| HT-03 | As a guest, I want to check out and pay the final bill.             | 3            | High     | Invoice generated, payment processed               |
+| HT-04 | As a manager, I want to manage room types and prices.               | 3            | Medium   | Add/edit room types and prices reflected in system |
+| HT-05 | As a guest, I want to pay via card or online.                       | 3            | High     | Payment processed, confirmation issued             |
+| HT-06 | As housekeeping staff, I want to view rooms needing cleaning.       | 3            | Medium   | Rooms displayed, can mark as cleaned               |
+| HT-07 | As a manager, I want to view occupancy and revenue reports.         | 5            | Medium   | Daily/monthly reports generated                    |
+| HT-08 | As a guest, I want to book additional services (spa, room service). | 3            | Medium   | Service added to bill, confirmation sent           |
+| HT-09 | As a channel manager, I want to sync availability with OTAs.        | 5            | High     | Availability updated, double bookings prevented    |
+| HT-10 | As a hotel manager, I want to create user accounts with roles.      | 3            | High     | Accounts created, permissions applied              |
